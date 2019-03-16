@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ARReplay_Example' do
+  pod 'ARReplay', :path => '../'
+
+  target 'ARReplay_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
