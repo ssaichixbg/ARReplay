@@ -1,0 +1,22 @@
+{
+  "name": "ARReplay",
+  "version": "0.1.0",
+  "summary": "A short description of ARReplay.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Yang Zhang/ARReplay",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yang Zhang": "zhangy405@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Yang Zhang/ARReplay.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ARReplay/Classes/**/*"
+}

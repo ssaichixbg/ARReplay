@@ -1,0 +1,16 @@
+PODS:
+  - ARReplay (0.1.0)
+
+DEPENDENCIES:
+  - ARReplay (from `../`)
+
+EXTERNAL SOURCES:
+  ARReplay:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ARReplay: 7b40c2c0d8a98860c6ced2030591b7a0da90f9f9
+
+PODFILE CHECKSUM: b38fb90cd0f86b9c454775f0608d9947811b5795
+
+COCOAPODS: 1.5.3

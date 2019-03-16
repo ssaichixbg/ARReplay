@@ -1,0 +1,6 @@
+framework module ARReplay {
+  umbrella header "ARReplay-umbrella.h"
+
+  export *
+  module * { export * }
+}
